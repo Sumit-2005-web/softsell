@@ -6,7 +6,7 @@ This is a single-page, fully responsive marketing website built for a fictional 
 
 ## 🌐 Live Site
 
-[🔗 View the Live Site](https://your-deployed-url.com)  
+[🔗 View the Live Site][(https://softsell-638p.onrender.com)] 
 (Replace with your actual deployment link)
 
 ---
