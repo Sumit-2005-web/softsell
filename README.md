@@ -1,12 +1,67 @@
-# React + Vite
+# SoftSell – Software License Resale Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a single-page, fully responsive marketing website built for a fictional startup called **SoftSell**, developed as part of the **Credex Web Development Internship Assignment**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Site
 
-## Expanding the ESLint configuration
+[🔗 View the Live Site](https://your-deployed-url.com)  
+(Replace with your actual deployment link)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **React.js** + **Vite**
+- **Tailwind CSS** for styling
+- **Material UI** components
+- **Deployed on** Render
+
+---
+
+## 📦 Features Implemented
+
+### ✅ Core Sections:
+- **Hero Section**: Includes a headline, subheading, and a CTA button.
+- **How It Works**: Simple 3-step process (Upload License → Get Valuation → Get Paid) with icons.
+- **Why Choose Us**: 3 informational tiles with icons and descriptions.
+- **Testimonials**: 2 dummy reviews (name, role, company).
+- **Contact Form**: Includes fields with validation (Name, Email, and Message).
+
+---
+
+## 🎨 Design & UX
+
+- Fully **mobile responsive**
+- Clean and **modern UI**
+- Consistent **color palette** and typography
+- Light/Dark mode toggle via **Material UI switch**
+- Used **Tailwind CSS** utility-first classes for layout and responsiveness
+
+---
+
+## ✨ Bonus Features Implemented
+
+- ✅ **Light/Dark mode toggle** // Currently not working
+- ✅ **Favicon placeholder**
+
+> ❌ Bonus feature **"LLM-powered chat widget"** was not implemented due to I don't have enough Knowledge.
+
+---
+
+## 🕒 Time Spent
+
+Total development time: **~3–4 hours**  
+(Including setup, coding, design, and testing)
+
+---
+
+## 📁 Getting Started (for local development)
+
+```bash
+git clone https://github.com/your-username/softsell.git
+cd softsell
+npm install
+npm run dev
+
